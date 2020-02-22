@@ -1,0 +1,2 @@
+python textmin.py
+pause
